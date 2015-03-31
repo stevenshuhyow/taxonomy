@@ -20,3 +20,5 @@ HoneyMakerBee.prototype.giveHoney = function(){
   this.honeyPot--;
 };
 
+
+
